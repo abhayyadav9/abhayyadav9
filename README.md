@@ -1,6 +1,15 @@
-# 💫 About Me:
-# Hi there, I'm Abhay Yadav 👋<br><br>I'm a passionate developer, open-source enthusiast, and lifelong learner. I love building innovative projects and sharing my work with the community.<br><br><br><br>🔭 About Me<br><br>- Current Focus:Working on Ai<br>- Learning:Advanced React, Node.js, and more!<br>- Interests:Web development, AI, Cloud Computing, and Automation<br>- Fun Fact: I enjoy coffee-fueled coding sessions!
+# Hi there, I'm Abhay yadav 👋
 
+I'm a passionate developer, open-source enthusiast, and lifelong learner. I love building innovative projects and sharing my work with the community.
+
+---
+
+## 🔭 About Me
+
+- **Current Focus:** Working on Ai
+- **Learning:** Advanced React, Node.js, and more!
+- **Interests:** Web development, AI, Cloud Computing, and Automation
+- **Fun Fact:** I enjoy coffee-fueled coding sessions!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhay45ray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavabhay8227@gmail.com ) 
